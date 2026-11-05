@@ -1,0 +1,15 @@
+{
+  "repository": "module-liberu-platform-orchestration-7f7db377-nextjs",
+  "capabilityKey": "liberusoftware/liberu-platform-orchestration",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-liberu-platform-orchestration-7f7db377-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/automation/nextjs/liberu-platform-orchestration.md",
+  "presentationPlan": "projects/automation/nextjs/liberu-platform-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
